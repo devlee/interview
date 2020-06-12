@@ -1,0 +1,1 @@
+Manacher：https://blog.csdn.net/qq_17550379/article/details/84022674
